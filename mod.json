@@ -1,0 +1,12 @@
+{
+    "geode": "v5.11.2",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081"
+    },
+    "id": "davilucca.decoforge",
+    "name": "DecoForge",
+    "version": "v0.1.0",
+    "developer": "Davi",
+    "description": "Free mobile-first automatic decoration tools for Geometry Dash."
+}
